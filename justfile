@@ -1,6 +1,9 @@
 default:
     @just --list
 
+install:
+    cargo install whiskers
+
 dev:
     python3 -m http.server 8000
 
