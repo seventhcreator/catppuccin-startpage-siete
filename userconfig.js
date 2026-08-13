@@ -104,7 +104,7 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "archive",
+              name: "bypass",
               url: "https://archive.ph/",
               icon: "border-radius",
               icon_color: palette.green,
@@ -122,7 +122,7 @@ const default_configuration = {
               icon_color: palette.rosewater,
             },
             {
-              name: "moon",
+              name: "luna",
               url: "https://mooncalendar.astro-seek.com/",
               icon: "moon",
               icon_color: palette.blue,
