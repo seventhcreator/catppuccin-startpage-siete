@@ -9,11 +9,11 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "Medellin",
+    location: "Medellín",
     scale: "C",
     // Optional OpenWeatherMap API key, get a free one at https://openweathermap.org/api
     // Leave empty to keep the placeholder and skip the network request
-    appId: "",
+    appId: "9dce73091edad7f33b38674874badf5b",
   },
   clock: {
     format: "k:i p",
@@ -33,7 +33,7 @@ const default_configuration = {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
       g: ["https://google.com/search?q=", "Google"],
     },
-    default: "d",
+    default: "p",
   },
   keybindings: {
     "s": "search-bar",
