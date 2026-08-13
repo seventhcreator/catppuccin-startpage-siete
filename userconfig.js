@@ -49,7 +49,7 @@ const default_configuration = {
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
-          name: "desparche",
+          name: "lobby",
           links: [
             {
               name: "reddit",
@@ -69,10 +69,16 @@ const default_configuration = {
               icon: "brand-youtube",
               icon_color: palette.red,
             },
+             {
+              name: "whatsapp",
+              url: "https://web.whatsapp.com/",
+              icon: "brand-whatsapp",
+              icon_color: palette.red,
+            },
           ],
         },
         {
-          name: "atajos",
+          name: "google",
           links: [
             {
               name: "gmail",
@@ -98,34 +104,28 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "archive",
+              url: "https://archive.ph/",
+              icon: "border-radius",
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
-              icon_color: palette.peach,
+              name: "economist",
+              url: "https://www.economist.com/",
+              icon: "news",
+              icon_color: palette.sky,
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
-              icon_color: palette.red,
+              name: "eventos mundiales",
+              url: "https://en.wikipedia.org/wiki/Portal:Current_events",
+              icon: "brand-wikipedia",
+              icon_color: palette.rosewater,
             },
             {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
+              name: "moon",
+              url: "https://mooncalendar.astro-seek.com/",
+              icon: "moon",
               icon_color: palette.blue,
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
             },
           ],
         },
