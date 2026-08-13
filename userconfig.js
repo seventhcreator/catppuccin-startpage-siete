@@ -168,7 +168,7 @@ const default_configuration = {
               icon_color: palette.sky,
             },
             {
-              name: "uc",
+              name: "unknowncheaters",
               url: "https://www.unknowncheats.me/forum/index.php",
               icon: "ufo",
               icon_color: palette.red,
@@ -176,7 +176,7 @@ const default_configuration = {
           ],
         },
         {
-          name: "plataforms",
+          name: "tiendas",
           links: [
             {
               name: "steam",
