@@ -21,8 +21,8 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      label: "SYD",
+      timezone: "Sydney",
       format: "h:i",
       icon_color: palette.peach,
     },
