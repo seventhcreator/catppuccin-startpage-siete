@@ -58,7 +58,7 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "musicForProgramming();",
+              name: "ambient",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
@@ -79,12 +79,6 @@ const default_configuration = {
               url: "https://calendar.google.com",
               icon: "calendar-filled",
               icon_color: palette.peach,
-            },
-            {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
-              icon_color: palette.red,
             },
             {
               name: "drive",
