@@ -21,8 +21,8 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      label: "SYD",
+      timezone: "Australia/Sydney",
       format: "h:i",
       icon_color: palette.peach,
     },
@@ -46,10 +46,10 @@ const default_configuration = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/banner_11.gif",
+      background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "desparche",
           links: [
             {
               name: "reddit",
@@ -66,7 +66,7 @@ const default_configuration = {
           ],
         },
         {
-          name: "workspace",
+          name: "atajos",
           links: [
             {
               name: "gmail",
