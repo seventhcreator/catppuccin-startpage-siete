@@ -9,7 +9,7 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Medellin",
     scale: "C",
     // Optional OpenWeatherMap API key, get a free one at https://openweathermap.org/api
     // Leave empty to keep the placeholder and skip the network request
