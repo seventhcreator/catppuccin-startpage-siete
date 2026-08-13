@@ -65,9 +65,9 @@ const default_configuration = {
             },
             {
               name: "youtube",
-              url: "https://www.youtube.com/,
+              url: "https://musicforprogramming.net",
               icon: "brand-youtube",
-              icon_color: palette.red,
+              icon_color: palette.peach,
             },
           ],
         },
