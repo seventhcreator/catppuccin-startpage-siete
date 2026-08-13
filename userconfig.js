@@ -150,6 +150,12 @@ const default_configuration = {
               icon: "pacman",
               icon_color: palette.lavender,
             },
+            {
+              name: "nexus",
+              url: "https://www.nexusmods.com/",
+              icon: "pacman",
+              icon_color: palette.lavender,
+            }, 
           ],
         },
         {
@@ -168,7 +174,7 @@ const default_configuration = {
               icon_color: palette.sky,
             },
             {
-              name: "unknowncheaters",
+              name: "unknowncheeks",
               url: "https://www.unknowncheats.me/forum/index.php",
               icon: "ufo",
               icon_color: palette.red,
