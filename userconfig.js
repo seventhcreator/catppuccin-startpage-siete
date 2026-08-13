@@ -232,24 +232,24 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
-              icon: "brand-reddit",
-              icon_color: palette.red,
+              name: "github",
+              url: "https://github.com/seventhcreator/catppuccin-startpage-siete/blob/main/userconfig.js",
+              icon: "brand-github",
+              icon_color: palette.green,
             },
           ],
         },
         {
-          name: "gaming",
+          name: "reviews",
           links: [
             {
-              name: "infiniteBacklog",
+              name: "backlog",
               url: "https://infinitebacklog.net",
               icon: "device-gamepad",
               icon_color: palette.green,
             },
             {
-              name: "steam",
+              name: "anilist",
               url: "https://store.steampowered.com",
               icon: "brand-steam",
               icon_color: palette.peach,
