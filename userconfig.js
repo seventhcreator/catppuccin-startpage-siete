@@ -73,7 +73,7 @@ const default_configuration = {
               name: "whatsapp",
               url: "https://web.whatsapp.com/",
               icon: "brand-whatsapp",
-              icon_color: palette.red,
+              icon_color: palette.green,
             },
           ],
         },
@@ -84,7 +84,7 @@ const default_configuration = {
               name: "gmail",
               url: "https://mail.google.com",
               icon: "brand-gmail",
-              icon_color: palette.green,
+              icon_color: palette.mauve,
             },
             {
               name: "calendar",
