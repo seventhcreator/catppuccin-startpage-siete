@@ -9,7 +9,7 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "Medellín",
+    location: "Medellin",
     scale: "C",
     // Optional OpenWeatherMap API key, get a free one at https://openweathermap.org/api
     // Leave empty to keep the placeholder and skip the network request
@@ -52,10 +52,10 @@ const default_configuration = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
-              icon_color: palette.green,
+              name: "reddit",
+              url: "https://www.reddit.com/",
+              icon: "brand-reddit",
+              icon_color: palette.red,
             },
             {
               name: "musicForProgramming();",
