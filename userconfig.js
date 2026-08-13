@@ -45,7 +45,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "SVN7I",
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
@@ -132,91 +132,73 @@ const default_configuration = {
       ],
     },
     {
-      name: "dev",
-      background_url: "src/img/banners/banner_07.gif",
+      name: "pirata",
+      background_url: "src/img/banners/banner_11.gif",
       categories: [
         {
-          name: "development",
+          name: "repacks",
           links: [
             {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
+              name: "fitgirl",
+              url: "https://fitgirl-repacks.site/",
+              icon: "gender-female",
               icon_color: palette.green,
             },
             {
-              name: "stackoverflow",
-              url: "https://stackoverflow.com",
-              icon: "brand-stackoverflow",
-              icon_color: palette.peach,
-            },
-            {
-              name: "duckdb",
-              url: "https://app.motherduck.com",
-              icon: "file-type-sql",
-              icon_color: palette.red,
-            },
-            {
-              name: "collab",
-              url: "https://colab.research.google.com",
-              icon: "notebook",
-              icon_color: palette.mauve,
+              name: "dodi",
+              url: "https://dodi-repacks.site/",
+              icon: "pacman",
+              icon_color: palette.lavender,
             },
           ],
         },
         {
-          name: "challenges",
+          name: "recursos",
           links: [
-            {
-              name: "kaggle",
-              url: "https://www.kaggle.com",
-              icon: "brain",
-              icon_color: palette.green,
-            },
-            {
-              name: "leetcode",
-              url: "https://leetcode.com",
-              icon: "code-plus",
-              icon_color: palette.peach,
-            },
-            {
-              name: "exercism",
-              url: "https://exercism.org",
-              icon: "code-minus",
+              {
+              name: "r/piratedgames",
+              url: "https://www.reddit.com/r/PiratedGames/",
+              icon: "brand-reddit",
               icon_color: palette.red,
             },
             {
-              name: "aoc",
-              url: "https://adventofcode.com",
-              icon: "brand-linktree",
-              icon_color: palette.blue,
+              name: "cs.rin.ru",
+              url: "https://cs.rin.ru/forum/viewforum.php?f=10",
+              icon: "ghost-3",
+              icon_color: palette.sky,
+            },
+            {
+              name: "uc",
+              url: "https://www.unknowncheats.me/forum/index.php",
+              icon: "ufo",
+              icon_color: palette.red,
             },
           ],
         },
         {
-          name: "resources",
+          name: "plataforms",
           links: [
             {
-              name: "dou",
-              url: "https://dou.ua",
-              icon: "brand-prisma",
-              icon_color: palette.green,
+              name: "steam",
+              url: "https://store.steampowered.com/?l=spanish",
+              icon: "brand-steam",
+              icon_color: palette.sapphire,
             },
             {
-              name: "hackernews",
-              url: "https://news.ycombinator.com",
-              icon: "brand-redhat",
+              name: "instant",
+              url: "https://www.instant-gaming.com/en/",
+              icon: "device-gamepad-2",
               icon_color: palette.peach,
             },
             {
-              name: "uber engineering",
-              url: "https://www.uber.com/en-GB/blog/london/engineering",
+              name: "loaded",
+              url: "https://www.loaded.com/",
               icon: "brand-uber",
               icon_color: palette.red,
             },
             {
-              name: "netflix tech blog",
-              url: "https://netflixtechblog.com",
+              name: "allkeyshop",
+              url: "https://www.allkeyshop.com/blog/",
               icon: "brand-netflix",
               icon_color: palette.blue,
             },
@@ -225,23 +207,23 @@ const default_configuration = {
       ],
     },
     {
-      name: "chi ll",
+      name: "media",
       background_url: "src/img/banners/banner_15.gif",
       categories: [
         {
-          name: "social media",
+          name: "platforms",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
-              icon_color: palette.green,
+              name: "netflix",
+              url: "https://www.netflix.com/co-en/",
+              icon: "brand-netflix",
+              icon_color: palette.red,
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
-              icon_color: palette.peach,
+              name: "crunchy",
+              url: "https://www.crunchyroll.com/discover",
+              icon: "meat",
+              icon_color: palette.mauve,
             },
             {
               name: "reddit",
