@@ -153,8 +153,8 @@ const default_configuration = {
             {
               name: "nexus",
               url: "https://www.nexusmods.com/",
-              icon: "pacman",
-              icon_color: palette.lavender,
+              icon: "loader",
+              icon_color: palette.peach,
             }, 
           ],
         },
